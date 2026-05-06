@@ -1,4 +1,4 @@
-import steamlit as st
+import streamlit as st
 import qrcode
 from PIL import Image
 
