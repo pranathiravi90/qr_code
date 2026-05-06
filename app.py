@@ -1,5 +1,5 @@
 import steamlit as st
-im[port qrcode
+import qrcode
 from PIL import Image
 
 st.title("qr code genrator")
